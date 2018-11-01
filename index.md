@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page!
 
-![GitHub Logo](\Users\Rafael\Desktop\rafa.png)
+![GitHub Logo](https://www.instagram.com/p/BdUrDpvBDYB/?hl=es&taken-by=127_origami_senpai)
 
 Greetings! My name is **Rafael Suárez Franco**. I'm a computer system manager and 3D origami artist, born in 1997. My skills are not very 
 specific, as I am a person who's able to perform very different types of tasks, thanks to my quick learning capacity. That makes me a very 
