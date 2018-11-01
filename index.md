@@ -2,7 +2,7 @@
 
 ![alt text][logo]
 
-[logo]: https://www.pinterest.es/pin/852095191970922805
+[logo]: C:\Users\Rafael\Desktop\rafa.png
 
 Greetings! My name is **Rafael Suárez Franco**. I'm a computer system manager and 3D origami artist, born in 1997. My skills are not very 
 specific, as I am a person who's able to perform very different types of tasks, thanks to my quick learning capacity. That makes me a very 
