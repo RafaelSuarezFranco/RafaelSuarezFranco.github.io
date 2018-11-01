@@ -1,4 +1,4 @@
-!(https://github.com/RafaelSuarezFranco/RafaelSuarezFranco.github.io/blob/master/rafa.jpg)
+![image](https://github.com/RafaelSuarezFranco/RafaelSuarezFranco.github.io/blob/master/rafa.jpg)
 
 ## Welcome to my GitHub page!
 
