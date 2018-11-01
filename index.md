@@ -1,4 +1,3 @@
-# RAFAEL SUÁREZ FRANCO
 ## Welcome to my GitHub page!
 
 Greetings! My name is **Rafael Suárez Franco**. I'm a computer system manager and 3D origami artist, born in 1997. My skills are not very 
