@@ -9,6 +9,7 @@ Greetings! My name is **Rafael Suárez Franco**. I'm a computer system managemen
 - Technology bachelor (9'11 average mark)
 - Lifeguard and acuatic instructor grade
 - C Aptis english level
+
 You can check out my [CV](https://github.com/RafaelSuarezFranco/RafaelSuarezFranco.github.io/blob/master/curr%C3%ADculum.pdf) for an extended overview
 
 ## About 3D origami
