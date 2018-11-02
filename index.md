@@ -9,7 +9,7 @@ specific, as I am a person who's able to perform very different types of tasks, 
 ## Academic achievements
 - Computer system management superior degree
 - Technology bachelor (9'11 average mark)
-- Socorrism and acuatic instructor grade
+- Lifeguard and acuatic instructor grade
 - C Aptis english level
 
 ## About 3D origami
