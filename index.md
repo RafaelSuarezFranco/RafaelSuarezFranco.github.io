@@ -1,5 +1,5 @@
 ![alt text](https://github.com/RafaelSuarezFranco/RafaelSuarezFranco.github.io/blob/master/rafa.jpg)
-<img src="https://github.com/RafaelSuarezFranco/RafaelSuarezFranco.github.io/rafa.jpg"></img>
+<img src="rafa.jpg"></img>
 ## Welcome to my GitHub page!
 
 Greetings! My name is **Rafael Suárez Franco**. I'm a computer system management student and 3D origami artist, born in 1997. My skills are not very specific, as I am a person who's able to perform very different types of tasks, thanks to my quick learning capacity. That makes me a very 
