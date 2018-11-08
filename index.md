@@ -12,7 +12,7 @@ Greetings! My name is **Rafael Suárez Franco**. I'm a computer system administr
 You can also check out my [CV](https://github.com/RafaelSuarezFranco/RafaelSuarezFranco.github.io/blob/master/english%20cv.pdf) for an extended overview
 
 ## About 3D origami
-3D origami is a very rare kind of art in which triangular paper pieces are used to create sculptures. Almost everything I know about 3D origami is self-taught. I have no official titulation about this, but I have a lot of experience and a long history of origami sculptures and paintings, which you can see in my [twitter](https://twitter.com/search?q=%40127origamisenp&src=typd&lang=es) or [instagram](https://www.instagram.com/127_origami_senpai/?hl=es)
+3D origami is a very rare kind of art in which triangular paper pieces are used to create sculptures. Almost everything I know about 3D origami is self-taught. I have no official titulation related to this, but I have a lot of experience and a long history of origami sculptures and paintings, which you can see in my [twitter](https://twitter.com/search?q=%40127origamisenp&src=typd&lang=es) or [instagram](https://www.instagram.com/127_origami_senpai/?hl=es)
 
 ## Contact
 You can e-mail me to **cientoveintisiete127@gmail.com** or contact me via [linkedin](https://www.linkedin.com/in/rafael-su%C3%A1rez-franco-27136b174/)
