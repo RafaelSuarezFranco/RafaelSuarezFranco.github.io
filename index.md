@@ -6,7 +6,7 @@ Greetings! My name is **Rafael Suárez Franco**. I'm a computer system administr
 
 ## Academic achievements
 - Technology bachelor (9'11 average mark)
-- Lifeguard and acuatic instructor grade
+- Lifeguard and acuatic instructor degree
 - C Aptis english level
 
 You can also check my [CV](https://github.com/RafaelSuarezFranco/RafaelSuarezFranco.github.io/blob/master/english%20cv.pdf) for an extender overview
